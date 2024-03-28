@@ -24,8 +24,11 @@ https://edu-cisco.org/courses/devnet-python-apic-em/
 - Написать скрипт (код) на Python с REST API-интерфейсами для автоматизации управления устройством.
 
 Академия Cisco на платформе SEDICOMM University: https://edu-cisco.org/
+
 Введение в DevOps / DevNet (Model-Driven Programmability): https://edu-cisco.org/courses/devnet-python-apic-em/
+
 DevOps / DevNet Associate: https://edu-cisco.org/courses/cisco-devnet-devops/
+
 Основы программирования Python / Programming Essentials in Python: https://edu-cisco.org/courses/python-programming-essentials
 
 Проходите новые #devops  / #devnet  курсы, курсы повышения квалификации DevOps / DevNet, DevOps / DevNet курсы повышения квалификации, онлайн курсы #cisco  DevOps / DevNet, онлайн курсы повышения квалификации DevOps / DevNet, DevOps / DevNet онлайн курсы повышения квалификации, DevOps / DevNet дистанционные курсы повышения квалификации, DevOps / DevNet онлайн курсы Cisco, курсы Cisco DevOps / DevNet, DevOps / DevNet курсы Cisco, DevOps / DevNet скачать курс, курсы DevOps / DevNet инженер, курсы DevOps / DevNet, DevOps / DevNet курс скачать торрент, DevOps / DevNet курс, DevOps / DevNet инженер курсы, инженер DevOps / DevNet курсы, DevOps / DevNet курсы бесплатно.
